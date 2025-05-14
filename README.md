@@ -5,6 +5,8 @@
 My name is Dennis and I study system development with a focus on programming, hardware, and building technical projects that are actually useful in practice.  
 Below are some examples of what I’ve built along my journey so far.
 
+Resume: [ENG](resumeENG.pdf) | [SV](resumeSV.pdf)
+
 ## Active Projects
 
 These are some of the projects I'm currently working on.
@@ -52,7 +54,10 @@ A classic Rock–Paper–Scissors game with score tracking and a loop-based game
 
 ## Hej!
 
-Jag heter Dennis och studerar systemutveckling med fokus på programmering, hårdvara och tekniska projekt som faktiskt går att använda i praktiken. Här är några exempel på vad jag har byggt under min resa hittills.
+Jag heter Dennis och studerar systemutveckling med fokus på programmering, hårdvara och tekniska projekt som faktiskt går att använda i praktiken.
+Här är några exempel på vad jag har byggt under min resa hittills.
+
+CV: [SV](resumeSV.pdf) |[ENG](resumeENG.pdf)
 
 ## Aktiva projekt
 
