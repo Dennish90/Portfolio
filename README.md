@@ -55,7 +55,7 @@ A classic Rock–Paper–Scissors game with score tracking and a loop-based game
 ## Hej!
 
 Jag heter Dennis och studerar systemutveckling med fokus på programmering, hårdvara och tekniska projekt som faktiskt går att använda i praktiken.
-Här är några exempel på vad jag har byggt under min resa hittills.
+Här är några exempel på vad jag har byggt hittills under min resa.
 
 CV: [SV](resumeSV.pdf) |[ENG](resumeENG.pdf)
 
