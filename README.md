@@ -1,4 +1,4 @@
-[ENG](#hello) | [SVE](#hej)
+[ENG](#hello) | [SV](#hej)
 
 ## Hello!
 
@@ -26,7 +26,7 @@ The goal is to create a living ecosystem where animals have hunger, thirst, ener
 
 [View repository](https://github.com/Dennish90/EcosystemSim)
 
-## 🎓 Projects from Programming 1
+## Projects from Programming 1
 
 These are earlier projects I created during my Programming 1 course.
 
@@ -67,7 +67,7 @@ Stort fokus ligger på att användaren ska kunna modifiera övningar och även s
 
 ---
 
-### Godot Simulation (Godot | C#)
+### Godot-Simulation (Godot | C#)
 Ett ambitiöst och väldigt roligt projekt – kanske lite för komplext för min nuvarande nivå, men det är så man lär sig.  
 Målet är att skapa ett levande ekosystem där djuren har hunger, törst, energinivåer och kan föröka sig. Fokus ligger på AI-beteenden och resurshantering över tid.
 
@@ -81,7 +81,7 @@ Här är tidigare projekt jag gjorde under min kurs i programmering 1
 
 ### Month Hall Game (Java)
 Ett enklare, turbaserat textspel som skapades under Programmering 1.  
-Spelet innehåller grundläggande logik för tillstånd, valmöjligheter och resultat baserat på spelarens beslut. Ett av mina första försök att strukturera spelflöde med objektorienterad kod.
+Spelet innehåller grundläggande logik för tillstånd, valmöjligheter och resultat baserat på spelarens beslut.
 
 [Se repository](https://github.com/Dennish90/MontyHallGame)
 
