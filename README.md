@@ -11,7 +11,7 @@ These are some of the projects I'm currently working on.
 
 ---
 
-### Just Breathe – Breathing App (Flutter | Dart) – Showcase
+### Just Breathe - Breathing App (Flutter | Dart) - Showcase
 My main project at the moment. A fun and educational experience where I get to work on both frontend and backend.  
 The app is built in Flutter with a focus on simple, rhythmic interaction and responsive design. It guides the user through various breathing cycles using visual and audio cues.  
 A key feature is allowing users to modify existing exercises or create their own.
@@ -60,7 +60,7 @@ Här är några av de projekt jag arbetar på
 
 ---
 
-### Just Breathe – Andningsapp (Flutter | Dart) - Showcase
+### Just Breathe - Andningsapp (Flutter | Dart) - Showcase
 Mitt huvudprojekt just nu. Ett roligt och lärorikt projekt där jag får arbeta med både frontend och backend.  
 Appen är utvecklad i Flutter med fokus på enkel, rytmisk interaktion och responsiv design. Den guidar användaren genom olika andningscykler visuellt och med ljud.  
 Stort fokus ligger på att användaren ska kunna modifiera övningar och även skapa egna.
