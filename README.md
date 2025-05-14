@@ -26,6 +26,8 @@ The goal is to create a living ecosystem where animals have hunger, thirst, ener
 
 [View repository](https://github.com/Dennish90/EcosystemSim)
 
+---
+
 ## Projects from Programming 1
 
 These are earlier projects I created during my Programming 1 course.
@@ -72,6 +74,8 @@ Ett ambitiöst och väldigt roligt projekt – kanske lite för komplext för mi
 Målet är att skapa ett levande ekosystem där djuren har hunger, törst, energinivåer och kan föröka sig. Fokus ligger på AI-beteenden och resurshantering över tid.
 
 [Se repository](https://github.com/Dennish90/EcosystemSim)
+
+---
 
 ## Projekt från Programmering 1
 
